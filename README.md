@@ -9,6 +9,9 @@ Soy Josafat, un desarrollador apasionado por la tecnología y el aprendizaje con
 * Bases de datos: MYSQL
 * Otras habilidades técnicas: GIT,LINUX,OOP, PROGRAMACION FUNCIONAL(Elixir)
 
+## Contribuciones
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josafatgs)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Mis proyectos destacados
 
 Aquí están algunos de mis proyectos más destacados:

@@ -1,29 +1,28 @@
 # ¡Hola a todos! 👋
 
-Soy [TU NOMBRE], un desarrollador apasionado por la tecnología y el aprendizaje continuo. Me encanta trabajar en proyectos desafiantes que me permitan mejorar mis habilidades y aprender nuevas tecnologías.
+Soy Josafat, un desarrollador apasionado por la tecnología y el aprendizaje continuo. Me encanta trabajar en proyectos desafiantes que me permitan mejorar mis habilidades y aprender nuevas tecnologías.
 
 ## Mis habilidades técnicas
 
-* Lenguajes de programación: [LISTA DE LENGUAJES QUE DOMINAS]
-* Frameworks y herramientas: [LISTA DE FRAMEWORKS Y HERRAMIENTAS QUE DOMINAS]
-* Bases de datos: [LISTA DE BASES DE DATOS QUE DOMINAS]
-* Otras habilidades técnicas: [LISTA DE OTRAS HABILIDADES TÉCNICAS QUE TENGAS]
+* Lenguajes de programación: PHP,C++,JS,PY
+* Frameworks y herramientas: HTML,BOOTSTRAP,CSS
+* Bases de datos: MYSQL
+* Otras habilidades técnicas: GIT,LINUX,OOP, PROGRAMACION FUNCIONAL(Elixir)
 
 ## Mis proyectos destacados
 
 Aquí están algunos de mis proyectos más destacados:
 
-* [NOMBRE DEL PROYECTO](LINK AL PROYECTO) - [BREVE DESCRIPCIÓN DEL PROYECTO]
-* [NOMBRE DEL PROYECTO](LINK AL PROYECTO) - [BREVE DESCRIPCIÓN DEL PROYECTO]
-* [NOMBRE DEL PROYECTO](LINK AL PROYECTO) - [BREVE DESCRIPCIÓN DEL PROYECTO]
+* [ExpoIngenierias](https://github.com/josafatgs/ExpoIngenieriaSite) - [Un sitio fullstack desarrollado para la administracion de proyectos que se registran en el sitio, los usarios que interactuan son estudiantes, profesores, y administrador quien tiene gran cantidad de operaciones que puede realizar para manejar la base de datos, este proyecto lo desarrollamos con HTML,CSS,JS en el Frontend & PHP,MySQL para el backend]
+* [PACMAN](https://github.com/josafatgs/PACMAN-GAME) - [El famosisimo juego de PACMAN desarrollado con C++, FreeGlut, OpenGL]
+* [POS System](https://github.com/josafatgs/POS-System) - [En Desarrollo - Este proyecto se esta desarrollando con Electron.js, Express.js, Node.js, Mongo.DB]
 
 ## Contacto
 
 Si estás interesado en trabajar conmigo en algún proyecto o simplemente quieres saludar, no dudes en contactarme a través de mis redes sociales:
 
-* [LINKEDIN](LINK A TU PERFIL DE LINKEDIN)
-* [TWITTER](LINK A TU PERFIL DE TWITTER)
-* [CORREO ELECTRÓNICO](TU CORREO ELECTRÓNICO)
+* [LINKEDIN](linkedin.com/in/josafat-garcía-sarmientos/)
+* [CORREO ELECTRÓNICO](josafatgarciasarmientos@gmail.com)
 
 ¡Gracias por visitar mi perfil! Espero verte pronto. 😃
 

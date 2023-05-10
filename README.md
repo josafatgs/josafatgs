@@ -10,7 +10,7 @@ Soy Josafat, un desarrollador apasionado por la tecnología y el aprendizaje con
 * Otras habilidades técnicas: GIT,LINUX,OOP, PROGRAMACION FUNCIONAL(Elixir)
 
 ## Contribuciones
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josafatgs)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=josafatgs&show_icons=true&theme=radical)]
 
 ## Mis proyectos destacados
 

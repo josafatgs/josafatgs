@@ -1,31 +1,94 @@
-# ¡Hola a todos! 👋
+<h1 align="center">Hey 👋 What's up?</h1>
 
-Soy Josafat, un desarrollador apasionado por la tecnología y el aprendizaje continuo. Me encanta trabajar en proyectos desafiantes que me permitan mejorar mis habilidades y aprender nuevas tecnologías.
+###
 
-## Mis habilidades técnicas
+<p align="center">My name is Josafat, and I'm a FullStack Developer, sometimes a usual programmer, sometimes an overachiever.</p>
 
-* Lenguajes de programación: PHP,C++,JS,PY
-* Frameworks y herramientas: HTML,BOOTSTRAP,CSS
-* Bases de datos: MYSQL
-* Otras habilidades técnicas: GIT,LINUX,OOP, PROGRAMACION FUNCIONAL(Elixir)
+###
 
-## Contribuciones
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=josafatgs&show_icons=true&theme=radical)]
+<h2 align="center">About me</h2>
 
-## Mis proyectos destacados
+###
 
-Aquí están algunos de mis proyectos más destacados:
+<p align="center">✨ Creating bugs since 2020<br>📚 I'm currently learning DevOps & Cloud...<br>🎯 Goals: Certificate on AWS Cloud Architect Solutions Associate<br>🎲 Fun fact: I like Entrepreneurship so I was thinking about to study finance but then I decided to become a programmer</p>
 
-* [ExpoIngenierias](https://github.com/josafatgs/ExpoIngenieriaSite) - [Un sitio fullstack desarrollado para la administracion de proyectos que se registran en el sitio, los usarios que interactuan son estudiantes, profesores, y administrador quien tiene gran cantidad de operaciones que puede realizar para manejar la base de datos, este proyecto lo desarrollamos con HTML,CSS,JS en el Frontend & PHP,MySQL para el backend]
-* [PACMAN](https://github.com/josafatgs/PACMAN-GAME) - [El famosisimo juego de PACMAN desarrollado con C++, FreeGlut, OpenGL]
-* [POS System](https://github.com/josafatgs/POS-System) - [En Desarrollo - Este proyecto se esta desarrollando con Electron.js, Express.js, Node.js, Mongo.DB]
+###
 
-## Contacto
+<h2 align="center">I code with</h2>
 
-Si estás interesado en trabajar conmigo en algún proyecto o simplemente quieres saludar, no dudes en contactarme a través de mis redes sociales:
+###
 
-* [LINKEDIN](linkedin.com/in/josafat-garcía-sarmientos/)
-* [CORREO ELECTRÓNICO](josafatgarciasarmientos@gmail.com)
+<div align="center">
+  <!-- HTML -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo"  />
+  <img width="12" />
+  <!-- Javascript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <!-- React -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <!-- Node -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="node logo"  />
+  <img width="12" />
+  <!-- Express -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <!-- CSS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <!-- Tawilwind -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind logo"  />
+  <img width="12" />
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <!-- Django -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <!-- Java -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <!-- C++ -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <!-- MySql -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <!-- MongoDB -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <!-- Docker -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <!-- Postman -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo"  />
+  <img width="12" />
+</div>
 
-¡Gracias por visitar mi perfil! Espero verte pronto. 😃
+###
 
+<h2 align="center">My OS</h2>
+
+###
+<div align="center">
+  <!-- Linux -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <!-- Windows -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" height="40" alt="tailwind logo"  />
+  <img width="12" />
+</div>
+
+###
+
+<h2 align="center">My Stats</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=josafatgs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josafatgs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=vue-dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
